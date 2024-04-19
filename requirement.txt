@@ -1,8 +1,6 @@
-csv file
-customer review
 streamlit
-python libraries
 google_auth_oauthlib.flow
 googleapiclient.discovery
 vaderSentiment.vaderSentiment
 pandas
+csv file
