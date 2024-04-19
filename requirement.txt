@@ -1,7 +1,0 @@
-streamlit
-google_auth_oauthlib.flow
-googleapiclient.discovery
-vaderSentiment.vaderSentiment
-pandas
-csv file
-json file
